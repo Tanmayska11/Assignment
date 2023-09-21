@@ -1,0 +1,32 @@
+.container2{
+    height: auto;
+    border-radius: 20px;
+    background-color: grey;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    padding: 10px;
+}
+.form-control{
+    min-height: 25%;
+}
+.cont3{
+    padding: 10px;
+}
+.issu-con{
+    height: auto;
+    background-color: royalblue;
+    border: 1px solid black ;
+    border-radius: 15px;
+    padding-left: 10px;
+
+}
+.issue-desc{
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-right: 10px;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+    border-radius: 5px;
+    
+}
